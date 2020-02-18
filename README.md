@@ -1,3 +1,11 @@
+# 개요
+
+- 후에 홈페이지 만들기 위한 kit
+- 적용된 사항
+  - api 호출 method
+  - style layout
+  - router
+
 # prettier 적용
 
 - src/.prettierrc 참고
