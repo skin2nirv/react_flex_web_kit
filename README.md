@@ -7,7 +7,7 @@
 # redux-saga
 
 - api 호출 방법
-- src/module/redux/apiRedux/reducers에 양식이라는 파일을 참고해서 파일을 작성하고
+  - src/module/redux/apiRedux/reducers에 양식이라는 파일을 참고해서 파일을 작성하고
 
 # 함수형 vs 클래스형
 
