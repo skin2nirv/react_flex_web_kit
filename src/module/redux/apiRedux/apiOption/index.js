@@ -1,9 +1,7 @@
-
-export const serverURL = "http://13.125.246.129:3010"
+export const serverURL = 'http://localhost:3010';
 
 export const loadRequestOption = {
-    headers: {
-        'Content-Type': 'application/json',
-      },
-}
-
+	headers: {
+		'Content-Type': 'application/json',
+	},
+};

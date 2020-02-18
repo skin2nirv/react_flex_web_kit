@@ -54,3 +54,9 @@
 # 스타일 적용
 
 - styled-component 를 적용한다.
+
+# 앞으로 ...
+
+- 예시페이지 지속해서 추가 예정
+- jest 적용 예정
+- typescript 적용 예정
